@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Герої України</title>
+    <link rel="stylesheet" href="../static/css/heroes.css">
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/128/10985/10985823.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css">
+</head>
+<body>
+    <header>
+        <h2>Герої України</h2>
+        <nav>
+            <ul>
+                <li class="home-icon">
+                    <a href="/"><i class="bi bi-house"></i></a>
+                </li>
+                <li><button onclick="filterHeroes('all')">Всі</button></li>
+                <li><button onclick="filterHeroes('prisoners')">В полоні</button></li>
+                <li><button onclick="filterHeroes('volunteers')">Волонтери</button></li>
+                <li><button onclick="filterHeroes('fallen')">Загиблі герої</button></li>
+                <li><button onclick="filterHeroes('active')">На передовій</button></li>
+                <li><button onclick="filterHeroes('awarded')">Нагороджені</button></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div id="heroes-container" class="heroes-container"></div>
+    </main>
+
+    <script src="/static/scripts/script.js"></script>
+</body>
+</html>

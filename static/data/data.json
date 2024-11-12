@@ -1,0 +1,303 @@
+{
+    "heroes": [
+        {
+            "id": "1",
+            "name": "Андрій Білецький",
+            "category": "active",
+            "bio": "Засновник та перший командир полку «Азов» (до того — «чорних чоловічків»)",
+            "photo": "https://ab3.army/wp-content/themes/main-template/assets/images/commander-new.webp",
+            "status": "На передовій",
+            "brigadeId": "1001",
+            "brigadeName": "3 ОШБр "
+        },
+        {
+            "id": "3",
+            "name": "Дмитро Кухарчук ",
+            "category": "На передовій",
+            "bio": "Командир 2-го штурмового батальйону 3 ОШБр. Ветеран полку «Азов»",
+            "photo": "https://ab3.army/wp-content/themes/main-template/assets/images/cm2.png",
+            "status": "На передовій",
+            "brigadeId": "1001",
+            "brigadeName": "3 ОШБр "
+        },
+        {
+            "id": "4",
+            "name": "Позивний «Бот»",
+            "category": "На передовій",
+            "bio": "Командир 1-го механізованого батальйону 3 ОШБр. Влітку 2014-го вступив до лав Правого Сектора»",
+            "photo": "https://ab3.army/wp-content/themes/main-template/assets/images/cm3.png",
+            "status": "На передовій",
+            "brigadeId": "1001",
+            "brigadeName": "3 ОШБр "
+        },
+        {
+            "id": "5",
+            "name": "Позивний «Вар»",
+            "category": "На передовій",
+            "bio": "Командир 2-го механізованого батальйону 3 ОШБр. У 2014-2015 роках брав участь в АТО на Донбасі»",
+            "photo": "https://ab3.army/wp-content/themes/main-template/assets/images/cm5.png",
+            "status": "На передовій",
+            "brigadeId": "1001",
+            "brigadeName": "3 ОШБр "
+        },
+        {
+            "id": "6",
+            "name": "Олег Романов",
+            "category": "На передовій",
+            "bio": "Командир протитанкового батальйону 3 ОШБр. Ветеран «Азову»»",
+            "photo": "https://ab3.army/wp-content/themes/main-template/assets/images/cm7.png",
+            "status": "На передовій",
+            "brigadeId": "1001",
+            "brigadeName": "3 ОШБр "
+        },
+        {
+            "id": "7",
+            "name": "Позивний «Авіценна»",
+            "category": "На передовій",
+            "bio": "Начальниця медичної служби 3 ОШБр. Ветеранка «Азову», 2014-2015 роках брала участь в АТО",
+            "photo": "https://ab3.army/wp-content/themes/main-template/assets/images/cm8.png",
+            "status": "На передовій",
+            "brigadeId": "1001",
+            "brigadeName": "3 ОШБр "
+        },
+        {
+            "id": "2",
+            "name": "Володимир Фокін",
+            "category": "На передовій",
+            "bio": "Командир 1-го штурмового батальйону 3 ОШБр. Бойовий шлях почав 2015 року в полку «Азов»",
+            "photo": "https://ab3.army/wp-content/themes/main-template/assets/images/cm6.png",
+            "status": "На передовій",
+            "brigadeId": "1001",
+            "brigadeName": "3 ОШБр"
+        },
+        {
+            "id": "8",
+            "name": "Олег Королевський",
+            "category": "Помер",
+            "bio": "Піхотинець який не здався у полон, деталі не відомі. Місце смерті не відоме, дата смерті квітень 22-го року",
+            "photo": "https://static.vecteezy.com/ti/vecteur-libre/p1/15934676-icone-de-profil-d-image-icone-masculine-signe-et-symbole-humain-ou-humain-vecteur-vectoriel.jpg",
+            "status": "Загинув",
+            "brigadeId": "1002",
+            "brigadeName": "110-та окрема механізована бригада"
+        },
+        {
+            "id": "9",
+            "name": "Анатолій Попков",
+            "category": "Помер",
+            "bio": "Сержант який не здався у полон, деталі не відомі. Місце смерті не відоме, дата смерті квітень 22-го року",
+            "photo": "https://static.vecteezy.com/ti/vecteur-libre/p1/15934676-icone-de-profil-d-image-icone-masculine-signe-et-symbole-humain-ou-humain-vecteur-vectoriel.jpg",
+            "status": "Загинув",
+            "brigadeId": "1002",
+            "brigadeName": "110-та окрема механізована бригада"
+        },
+        {
+            "id": "10",
+            "name": "Григорій Ягущин",
+            "category": "Помер",
+            "bio": "Деталі не відомі. Місце смерті не відоме",
+            "photo": "https://static.vecteezy.com/ti/vecteur-libre/p1/15934676-icone-de-profil-d-image-icone-masculine-signe-et-symbole-humain-ou-humain-vecteur-vectoriel.jpg",
+            "status": "Загинув",
+            "brigadeId": "1002",
+            "brigadeName": "110-та окрема механізована бригада"
+        },
+        {
+            "id": "11",
+            "name": "Роман Рудик",
+            "category": "Помер",
+            "bio": "Піхотинець який не здався у полон. Місце смерті не відоме",
+            "photo": "https://static.vecteezy.com/ti/vecteur-libre/p1/15934676-icone-de-profil-d-image-icone-masculine-signe-et-symbole-humain-ou-humain-vecteur-vectoriel.jpg",
+            "status": "Загинув",
+            "brigadeId": "1002",
+            "brigadeName": "110-та окрема механізована бригада"
+        },
+        {
+            "id": "12",
+            "name": "Назарій Драбик",
+            "category": "Помер",
+            "bio": "Піхотинець який не здався у полон. Місце смерті не відоме",
+            "photo": "https://static.vecteezy.com/ti/vecteur-libre/p1/15934676-icone-de-profil-d-image-icone-masculine-signe-et-symbole-humain-ou-humain-vecteur-vectoriel.jpg",
+            "status": "Загинув",
+            "brigadeId": "1002",
+            "brigadeName": "110-та окрема механізована бригада"
+        },
+        {
+            "id": "13",
+            "name": "Владислав Губар",
+            "category": "Помер",
+            "bio": "Піхотинець який не здався у полон. Місце смерті не відоме",
+            "photo": "https://static.vecteezy.com/ti/vecteur-libre/p1/15934676-icone-de-profil-d-image-icone-masculine-signe-et-symbole-humain-ou-humain-vecteur-vectoriel.jpg",
+            "status": "Загинув",
+            "brigadeId": "1002",
+            "brigadeName": "110-та окрема механізована бригада"
+        },
+        {
+            "id": "14",
+            "name": "Олексій Березовський",
+            "category": "Помер",
+            "bio": "Піхотинець який не здався у полон. Місце смерті не відоме",
+            "photo": "https://static.vecteezy.com/ti/vecteur-libre/p1/15934676-icone-de-profil-d-image-icone-masculine-signe-et-symbole-humain-ou-humain-vecteur-vectoriel.jpg",
+            "status": "Загинув",
+            "brigadeId": "1003",
+            "brigadeName": "25-та окрема повітрянодесантна бригада"
+        },
+        {
+            "id": "15",
+            "name": "Павло Сокол",
+            "category": "Помер",
+            "bio": "Піхотинець який не здався у полон. Місце смерті не відоме",
+            "photo": "https://static.vecteezy.com/ti/vecteur-libre/p1/15934676-icone-de-profil-d-image-icone-masculine-signe-et-symbole-humain-ou-humain-vecteur-vectoriel.jpg",
+            "status": "Загинув",
+            "brigadeId": "1003",
+            "brigadeName": "25-та окрема повітрянодесантна бригада"
+        },
+        {
+            "id": "16",
+            "name": "Максим Фундовний",
+            "category": "Помер",
+            "bio": "Піхотинець який не здався у полон. Місце смерті не відоме",
+            "photo": "https://static.vecteezy.com/ti/vecteur-libre/p1/15934676-icone-de-profil-d-image-icone-masculine-signe-et-symbole-humain-ou-humain-vecteur-vectoriel.jpg",
+            "status": "Загинув",
+            "brigadeId": "1003",
+            "brigadeName": "25-та окрема повітрянодесантна бригада"
+        },
+        {
+            "id": "17",
+            "name": "Іван Шишков",
+            "category": "Помер",
+            "bio": "Піхотинець який не здався у полон. Місце смерті не відоме",
+            "photo": "https://static.vecteezy.com/ti/vecteur-libre/p1/15934676-icone-de-profil-d-image-icone-masculine-signe-et-symbole-humain-ou-humain-vecteur-vectoriel.jpg",
+            "status": "Загинув",
+            "brigadeId": "1003",
+            "brigadeName": "25-та окрема повітрянодесантна бригада"
+        },
+        {
+            "id": "18",
+            "name": "Олександр Кутьєв",
+            "category": "Помер",
+            "bio": "Піхотинець який не здався у полон. Місце смерті не відоме",
+            "photo": "https://static.vecteezy.com/ti/vecteur-libre/p1/15934676-icone-de-profil-d-image-icone-masculine-signe-et-symbole-humain-ou-humain-vecteur-vectoriel.jpg",
+            "status": "Загинув",
+            "brigadeId": "1003",
+            "brigadeName": "25-та окрема повітрянодесантна бригада"
+        },
+        {
+            "id": "19",
+            "name": "Ельдар Канюшев",
+            "category": "В полоні",
+            "bio": "Знайден у полоні",
+            "photo": "data:image/jpeg;base64,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",
+            "status": "Полонений",
+            "brigadeId": "1004",
+            "brigadeName": "ТРО"
+        },
+
+        {
+            "id": "20",
+            "name": "Олег Мельниченко",
+            "category": "В полоні",
+            "bio": "Воював на Херсонщині, знайден у полоні",
+            "photo": "data:image/jpeg;base64,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",
+            "status": "Полонений",
+            "brigadeId": "1005",
+            "brigadeName": "36 ОБрМП"
+        },
+        {
+            "id": "21",
+            "name": "Віталій Малюга",
+            "category": "В полоні",
+            "bio": "Погран служба, знайден у полоні",
+            "photo": "data:image/jpeg;base64,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",
+            "status": "Полонений",
+            "brigadeId": "1005",
+            "brigadeName": "36 ОБрМП"
+        },
+        {
+            "id": "22",
+            "name": "Денис Христов",
+            "category": "active",
+            "bio": "З початку повномасштабного вторгнення РФ на територію України почав займатися волонтерством: збором фінансової та гуманітарної допомоги на потреби військових і цивільного населення, розвезенням продовольства у гарячі точки",
+            "photo": "data:image/jpeg;base64,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",
+            "status": "Волонтер",
+            "brigadeId": "999999999",
+            "brigadeName": "Волонтер"
+        },
+        {
+            "id": "23",
+            "name": "Олег Адамовський ",
+            "category": "Загинув",
+            "bio": "загинув під час російського вторгнення в Україну 2022 року, Герой України з удостоєнням ордена «Золота Зірка» (2022, посмертно).",
+            "photo": "https://upload.wikimedia.org/wikipedia/uk/0/0f/%D0%90%D0%B4%D0%B0%D0%BC%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%9E%D0%BB%D0%B5%D0%B3_%D0%9E%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D1%87.jpg",
+            "status": "Нагородженний",
+            "brigadeId": "10999096",
+            "brigadeName": " 92 ОМБр"
+        },
+        {
+            "id": "24",
+            "name": "Олександр Бринжала",
+            "category": "Загинув",
+            "bio": " український військовий пілот, майор, льотчик 1 класу 40-ї бригади тактичної авіації[1]. Герой України (2 квітня 2022 року, посмертно).",
+            "photo": "https://upload.wikimedia.org/wikipedia/uk/4/47/%D0%91%D1%80%D0%B8%D0%BD%D0%B6%D0%B0%D0%BB%D0%B0_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87.jpg",
+            "status": "Нагородженний",
+            "brigadeId": "9999999",
+            "brigadeName": "40 БрТА"
+        },
+        {
+            "id": "25",
+            "name": "Артем Слісарчук",
+            "category": "Загинув",
+            "bio": "начальник зенітної ракетної обслуги зенітної ракетної батареї 250-го окремого зенітного ракетного дивізіону 11 ЗРП, учасник російсько-української війни. Герой України (2022, посмертно).",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%D0%A1%D0%BB%D1%96%D1%81%D0%B0%D1%80%D1%87%D1%83%D0%BA_%D0%90%D1%80%D1%82%D0%B5%D0%BC_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87.jpg/435px-%D0%A1%D0%BB%D1%96%D1%81%D0%B0%D1%80%D1%87%D1%83%D0%BA_%D0%90%D1%80%D1%82%D0%B5%D0%BC_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87.jpg",
+            "status": "Нагородженний",
+            "brigadeId": "9999999999",
+            "brigadeName": "11 ЗРП"
+        },
+        {
+            "id": "26",
+            "name": "Сергій Побережець",
+            "category": "active",
+            "bio": " український військовослужбовець, підполковник Збройних сил України, учасник російсько-української війни. Герой України (2022).",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Serhiy_Poberezhets.jpg/420px-Serhiy_Poberezhets.jpg",
+            "status": "Нагородженний",
+            "brigadeId": "99999999",
+            "brigadeName": "Збройні сили"
+        }
+    ],
+    "brigades": [
+        {
+            "id": "1001",
+            "name": "3-тя окрема штурмова бригада",
+            "info": "Третя окрема штурмова бригада – добровольчий підрозділ, сформований у перші дні повномасштабного вторгнення.  Засновник – перший командир полку «Азов» Андрій Білецький.",
+            "members": ["1", "2", "3", "4", "5", "6", "7"]
+        },
+
+        {
+            "id": "1002",
+            "name": "110-та окрема механізована бригада",
+            "info": "Механізоване з'єднання Сухопутних військ Збройних сил України. Входить до складу Корпусу резерву.Бригада носить ім'я Марка Безручка — воєначальника УНР, одного із командирів, які здобули перемогу у «Диві на Віслі».",
+            "members": ["8", "9", "10", "11", "12", "13", ""]
+        },
+
+        {
+            "id": "1003",
+            "name": "25-та окрема повітрянодесантна бригада",
+            "info": "Військове з'єднання у складі Десантно-штурмових військ Збройних сил України чисельністю в бригаду. Базується у селищі Зарічне Самарівського району Дніпропетровської області.",
+            "members": ["18", "14", "15", "16", "17", "", ""]
+        },
+
+        {
+            "id": "1004",
+            "name": "Сили територіальної оборони Збройних Сил України",
+            "info": "Окремий рід сил ЗСУ, на який покладається організація, підготовка та виконання завдань територіальної оборони. Безпосереднє керівництво територіальною обороною здійснюється Головнокомандувачем ЗСУ через Командувача Сил територіальної оборони",
+            "members": ["19", "", "", "", "", "", ""]
+        },
+
+        {
+            "id": "1005",
+            "name": "36-та окрема бригада морської піхоти імені контрадмірала Михайла Білинського",
+            "info": "З'єднання морської піхоти України. Перебуває у підпорядкуванні Командування Морської піхоти ВМС України. Сформована у 2015 році на базі військових частин, виведених з окупованого Криму: 36-ї окремої бригади берегової оборони, 1-го та 501-го окремих батальйонів морської піхоти. Місце базування — місто Миколаїв.",
+            "members": ["20", "21", "", "", "", "", ""]
+        }
+
+    ]
+
+}

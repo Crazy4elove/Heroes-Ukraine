@@ -1,0 +1,109 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #0044cc;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+nav ul li button {
+    background: #fff;
+    color: #0044cc;
+    border: 1px solid #0044cc;
+    padding: 10px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+nav ul li button:hover {
+    background: #0044cc;
+    color: #fff;
+}
+
+.heroes-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+}
+
+.hero-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 300px;
+    text-align: center;
+}
+
+.hero-card img {
+    max-width: 100%;
+    border-radius: 50%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.hero-card h3 {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+
+.hero-card p {
+    font-size: 0.9em;
+    margin: 5px 0;
+}
+
+
+
+
+.home-icon {
+    margin-right: auto;
+}
+
+.home-icon a {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 0 10px;
+    transition: color 0.3s;
+}
+
+.home-icon a:hover {
+    color: #00409d;
+}
+
+
+nav ul li button {
+    background: #fff;
+    color: #0057b7;
+    border: 1px solid #0057b7;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    cursor: pointer;
+}
+
+nav ul li button:hover {
+    background-color: #0057b7;
+    color: #fff;
+}
